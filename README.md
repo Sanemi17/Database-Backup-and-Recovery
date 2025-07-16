@@ -96,3 +96,5 @@ In real companies, this task would translate into scheduled automatic backups, o
 Task 4 was one of the most important topics in this internship. Backup and recovery aren’t just about writing queries — they’re about ensuring business continuity. I now understand the real-world relevance of disaster recovery planning and how database administrators ensure data is never lost. The commands I used simulate what real professionals do every day to secure their systems and protect users' trust.
 
 OUTPUTS
+
+"https://github.com/user-attachments/assets/ba4fdab9-d330-44af-97a2-a1cbb3fbabe8"
